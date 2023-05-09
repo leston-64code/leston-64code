@@ -29,9 +29,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leston-64code&show_icons=true&locale=en&layout=compact" alt="leston-64code" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leston-64code&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true" alt="leston-64code" />
+</p>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leston-64code&show_icons=true&locale=en" alt="leston-64code" /></p>
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leston-64code&show_icons=true&locale=en&theme=vue-dark&hide_border=true&hide=issues&text_bold=false" alt="leston-64code" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leston-64code&" alt="leston-64code" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leston-64code&theme=vue-dark&hide_border=true" alt="leston-64code" /></p>
