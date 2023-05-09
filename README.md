@@ -3,6 +3,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,figma,c,reactjs,html,css,tailwindcss,express" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,figma,c,react,html,css,tailwindcss,express" />
   </a>
 </p>
