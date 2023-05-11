@@ -12,21 +12,39 @@
 <a href="https://instagram.com/leston_200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leston_200" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Frontend Technologies</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nodejs,figma,c,react,html,css,tailwindcss,express,bootstrap,github,gitlab,idea,java,js,mongodb,netlify,postman,redis,redux&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwindcss,bootstrap,redux,webpack&perline=10&theme=dark" />
+    
+  </a>
+</p>
+
+<h3 align="left">Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,js,mongodb,redis&perline=10&theme=dark" />
+    
+  </a>
+</p>
+
+<h3 align="left">Tools and Softwares</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,nginx,regex,vscode,md,netlify,figma,github,git,gitlab&perline=10&theme=dark" />
     
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=regex,vscode,webpack&perline=10&theme=dark" />
-       
+    <img src="https://skillicons.dev/icons?i=,postman,java,idea,heroku,vim&perline=10&theme=dark" />
+    
   </a>
 </p>
+
+
 
 
 <p>
